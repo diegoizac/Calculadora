@@ -103,7 +103,7 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/diegoizac/yourproject/fork>)
+1. Fork it (<https://github.com/diegoizac/calculadora/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
@@ -152,9 +152,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Diego Izac** - *Initial work* - [PurpleBooth](https://github.com/diegoizac)
+* **Diego Izac** - *Initial work* - [DiegoIzac](https://github.com/diegoizac)
 
-See also the list of [contributors](https://github.com/diegoizac/projetocalculadora/contribuicoes) who participated in this project.
+See also the list of [contributors](https://github.com/diegoizac/calculadora/contributors who participated in this project.
 
 ## License
 
